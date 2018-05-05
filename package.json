@@ -19,7 +19,7 @@
     "test": "jshint . && node test.js"
   },
   "dependencies": {
-    "colors": "^1.0.3",
+    "colors": "^1.2.4",
     "request": "^2.48.0"
   },
   "devDependencies": {
