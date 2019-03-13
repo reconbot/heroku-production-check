@@ -23,7 +23,7 @@
     "request": "^2.48.0"
   },
   "devDependencies": {
-    "jshint": "^2.5.10",
+    "jshint": "^2.10.2",
     "netrc": "^0.1.3"
   }
 }
